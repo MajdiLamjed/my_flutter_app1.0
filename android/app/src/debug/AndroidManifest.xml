@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.flutter_application_cloud_led">
+    
+    <application
+        android:label="YourApp"  
+        tools:replace="android:label" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+
+</manifest>

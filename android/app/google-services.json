@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "96798704386",
+    "firebase_url": "https://labview2-21425-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "labview2-21425",
+    "storage_bucket": "labview2-21425.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96798704386:android:2ad3f84155aa45036ef81b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_cloud_led"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS3lw3dQaCAc04P3GHM6h1vBYfWQBUNfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
